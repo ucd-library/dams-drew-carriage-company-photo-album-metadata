@@ -36,10 +36,10 @@
   },
   "schema:name": "Drew Carriage Company Photograph Album",
   "schema:publisher": [
+    "UC Davis Library, Archives and Special Collections",
     {
       "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    },
-    "UC Davis, Archives and Special Collections"
+    }
   ],
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
