@@ -1,0 +1,40 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204928",
+    "http://schema.org/name": "California"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1219034",
+    "http://schema.org/name": "California--Ontario"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/931637",
+    "http://schema.org/name": "Ford Model T automobile"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/966353",
+    "http://schema.org/name": "IHC tractors"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/700986",
+    "http://schema.org/name": "Oliver Farm Equipment Company"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/921282",
+    "http://schema.org/name": "Farm tractors"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1047271",
+    "http://schema.org/name": "Orchards"
+  }
+]

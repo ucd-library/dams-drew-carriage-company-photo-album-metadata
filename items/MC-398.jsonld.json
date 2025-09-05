@@ -1,0 +1,76 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Book",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:associatedMedia": [
+    {
+      "@id": "@base:/media/images"
+    }
+  ],
+  "schema:creator": "Carriage, Drew",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1917"
+  },
+  "schema:identifier": [
+    "ark:/87293/d33r0q230"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/MC-398_0001.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Drew Carriage Company Photograph Album",
+  "schema:publisher": "Carriage, Drew",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2025"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1204928",
+      "name": "California"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1219034",
+      "name": "California--Ontario"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/931637",
+      "name": "Ford Model T automobile"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/966353",
+      "name": "IHC tractors"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/700986",
+      "name": "Oliver Farm Equipment Company"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/921282",
+      "name": "Farm tractors"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1047271",
+      "name": "Orchards"
+    }
+  ]
+}
