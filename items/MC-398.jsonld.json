@@ -35,12 +35,7 @@
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
   "schema:name": "Drew Carriage Company Photograph Album",
-  "schema:publisher": [
-    "UC Davis Library, Archives and Special Collections",
-    {
-      "@id": "http://id.loc.gov/authorities/names/no2008108707"
-    }
-  ],
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2025"
@@ -48,35 +43,33 @@
   "schema:sdLicense": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
-  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ],
   "schema:about": [
     {
-      "@id": "http://id.worldcat.org/fast/1204928",
-      "name": "California"
+      "@id": "http://id.worldcat.org/fast/1204928"
     },
     {
-      "@id": "http://id.worldcat.org/fast/1219034",
-      "name": "California--Ontario"
+      "@id": "http://id.worldcat.org/fast/1219034"
     },
     {
-      "@id": "http://id.worldcat.org/fast/931637",
-      "name": "Ford Model T automobile"
+      "@id": "http://id.worldcat.org/fast/931637"
     },
     {
-      "@id": "http://id.worldcat.org/fast/966353",
-      "name": "IHC tractors"
+      "@id": "http://id.worldcat.org/fast/966353"
     },
     {
-      "@id": "http://id.worldcat.org/fast/700986",
-      "name": "Oliver Farm Equipment Company"
+      "@id": "http://id.worldcat.org/fast/700986"
     },
     {
-      "@id": "http://id.worldcat.org/fast/921282",
-      "name": "Farm tractors"
+      "@id": "http://id.worldcat.org/fast/921282"
     },
     {
-      "@id": "http://id.worldcat.org/fast/1047271",
-      "name": "Orchards"
+      "@id": "http://id.worldcat.org/fast/1047271"
     }
   ]
 }
