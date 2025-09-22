@@ -20,5 +20,16 @@
   },
   "ldp:membershipResource": {
     "@id": "@base:.."
-  }
+  },
+  "schema:associatedMedia": [
+    {
+      "@id": "@base:images"
+    },
+    {
+      "@id": "@base:MC-398.pdf",
+      "@type": "schema:MediaObject",
+      "ebucore:filename": "MC-398.pdf",
+      "ebucore:hasMimeType": "application/pdf"
+    }
+  ]
 }
