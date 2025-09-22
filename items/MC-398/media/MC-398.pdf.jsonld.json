@@ -10,15 +10,15 @@
   },
   "@id": "",
   "@type": [
-    "ldp:DirectContainer"
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:MediaObject"
   ],
-  "ldp:hasMemberRelation": {
-    "@id": "schema:associatedMedia"
+  "schema:associatedMedia": {
+    "@id": "@base:../images"
   },
-  "ldp:isMemberOfRelation": {
-    "@id": "schema:encodesCreativeWork"
-  },
-  "ldp:membershipResource": {
-    "@id": "@base:.."
-  }
+  "ebucore:filename": "MC-398.pdf",
+  "ebucore:hasMimeType": "application/pdf"
 }
+
+
